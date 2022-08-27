@@ -104,7 +104,7 @@ header .navbar ul li a {
 
 header .logo {
     font-size: 1.9rem;
-    color: #fff;
+color: white;
     text-transform: uppercase;
 }
 
@@ -152,7 +152,7 @@ header .fa-bars {
 .button1 {
      animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
     height: 5rem;
-    width: 24rem;
+    width: 20rem;
     border-radius: 1rem;
     background: #fc0000;
     color: #fff;
