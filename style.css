@@ -104,13 +104,13 @@ header .navbar ul li a {
 
 header .logo {
     font-size: 1.9rem;
-color: white;
+color: #fff;
     text-transform: uppercase;
 }
 
 header .fa-bars {
     font-size: 3rem;
-    color: #f9580e;
+   color: #f7f5f5;
     cursor: pointer;
     display: none;
     transition: .2s;
