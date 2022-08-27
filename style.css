@@ -151,7 +151,7 @@ header .fa-bars {
 /*bton */
 .button1 {
      animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
-    height: 5rem;
+    height: 6rem;
     width: 20rem;
     border-radius: 1rem;
     background: #fc0000;
