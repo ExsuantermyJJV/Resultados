@@ -148,7 +148,9 @@ header .fa-bars {
     padding: 1rem 25rem;   
 }
 
+/*bton */
 .home .content button {
+     animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
     height: 5rem;
     width: 20rem;
     border-radius: 1rem;
@@ -161,6 +163,30 @@ header .fa-bars {
     margin: 4rem 0;
     border-color: #000000;
 }
+
+@keyframes bounce {
+  0% {
+    transform: rotate(-10deg) scale(.9)
+  }
+  
+  26% {
+    transform: rotate(10deg) scale(1.1)
+  }
+  30% {
+    transform: rotate(-10deg) scale(1.1)
+  }
+  35% {
+    transform: rotate(10deg) scale(1.1)
+  }
+  40% {
+    transform: rotate(-10deg) scale(1)
+  }
+  45% {
+    transform: rotate(0) scale(1)
+  }
+}
+/*bton */
+
 
 *{
     margin: 0px;
