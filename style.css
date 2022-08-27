@@ -149,25 +149,9 @@ header .fa-bars {
 }
 
 /*bton */
-.button1 {
-     animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
-    height: 6rem;
-    width: 22rem;
-    border-radius: 1rem;
-    background: #fc0000;
-    color: #fff;
-    font-size: 1.7rem;
-    cursor: pointer;
-    transition: .2s;
-    box-shadow: 0 .3rem 1rem rgba(0, 0, 0, 0.3);
-    margin: 4rem 0;
-    border-color: #000000;
-   
-}
-
 .home .content button {
      animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
-    height: 5rem;
+    height: 6rem;
     width: 20rem;
     border-radius: 1rem;
     background: #fc0000;
