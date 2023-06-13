@@ -31,7 +31,7 @@ const second = 1000,
       day = hour * 24;
 
 
-let countDown = new Date('June 3, 2023 00:00:00').getTime(),
+let countDown = new Date('June 14, 2023 00:00:00').getTime(),
     x = setInterval(function() {
 
       let now = new Date().getTime(),
